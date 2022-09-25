@@ -3,8 +3,6 @@
 #include <stdlib.h>
 //Программа, которая проверяет слова на повторяющиеся буквы
 
-//qdqdqw
-//dqw
 bool check(char data[],int len)
 {
     for (int i = 0; i < len - 1; i++)
